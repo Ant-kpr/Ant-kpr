@@ -23,8 +23,8 @@ J'aime apprendre, expérimenter et relever de nouveaux défis techniques.
 
 ## 📂 Mes projets
 
-| Projet | Description |
-| :--- | :--- |
+| Projet |
+| :--- |
 | (https://github.com)
 ## 🎯 Mes objectifs
 * Approfondir mes connaissances en JavaScript
