@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Antoine-Koper !
 
-<!--
-**Ant-kpr/Ant-kpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Développeur Web et Web Mobile en formation
+Bienvenue dans mon univers de développement web.
 
-Here are some ideas to get you started:
+## 🙋‍♂️ À propos de moi
+Actuellement en formation **Développeur Web et Web Mobile (DWWM)**, je développe mes compétences dans la création de sites et d'applications web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'aime apprendre, expérimenter et relever de nouveaux défis techniques.
+
+* 🎓 En formation DWWM
+* 💻 Développement web front-end et back-end
+* 🌱 En constante progression
+* 🚀 Objectif : devenir une star du code
+
+## 🛠️ Mes compétences
+**Langages et technologies :**
+* HTML5
+* CSS3
+* JavaScript (Node.js)
+* Git & GitHub
+* Markdown
+
+## 📂 Mes projets
+
+| Projet | Description |
+| :--- | :--- |
+| (https://github.com)
+## 🎯 Mes objectifs
+* Approfondir mes connaissances en JavaScript
+* Maîtriser le développement full-stack
+
+---
+Merci de visiter mon profil GitHub ! Retrouvez tous mes dépôts sur [github.com/Ant-kpr](https://github.com/Ant-kpr).
