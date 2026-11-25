@@ -25,7 +25,8 @@ J'aime apprendre, expérimenter et relever de nouveaux défis techniques.
 
 | Projet |
 | :--- |
-| (https://github.com)
+| [mon Github](https://github.com)
+| [Composant Récapitulatif de Commande](http://127.0.0.1:3000/dwwm-tp/s07-exercices/order-summary-component-main/order-summary-component-main/index.html?vscode-livepreview=true)
 ## 🎯 Mes objectifs
 * Approfondir mes connaissances en JavaScript
 * Maîtriser le développement full-stack
